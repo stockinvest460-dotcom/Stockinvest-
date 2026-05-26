@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance Pro",
+  "description": "Smart college attendance and eligibility tracker with analytics, predictor, and reports module.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
